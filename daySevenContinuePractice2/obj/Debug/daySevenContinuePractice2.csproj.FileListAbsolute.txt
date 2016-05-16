@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenContinuePractice2\daySevenContinuePractice2\bin\Debug\daySevenContinuePractice2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenContinuePractice2\daySevenContinuePractice2\bin\Debug\daySevenContinuePractice2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenContinuePractice2\daySevenContinuePractice2\bin\Debug\daySevenContinuePractice2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenContinuePractice2\daySevenContinuePractice2\obj\Debug\daySevenContinuePractice2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenContinuePractice2\daySevenContinuePractice2\obj\Debug\daySevenContinuePractice2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\daySevenContinuePractice2\daySevenContinuePractice2\obj\Debug\daySevenContinuePractice2.csprojResolveAssemblyReference.cache
